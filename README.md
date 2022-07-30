@@ -1,2 +1,3 @@
-# Desafio_primeiro_Projeto_Dio
-Criando o primeiro repositório
+# Primeiro Desafio de Projeto DIO
+
+Exercitando conhecimentos adquiridos na plataforma da Dio.
